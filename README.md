@@ -1,19 +1,7 @@
-# vuex-program
+# 关于vuex的简单案例
 
-## Project setup
-```
-npm install
-```
+### count mapCount 是关于计算的两种写法的文件
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
 
-### Compiles and minifies for production
-```
-npm run build
-```
+### 更新todolist 的vuex写法
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
